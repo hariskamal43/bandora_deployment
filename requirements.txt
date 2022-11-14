@@ -11,13 +11,8 @@ Brotli==1.0.9
 brotlipy==0.7.0
 cachetools==5.0.0
 charset-normalizer==2.1.1
-clyent==1.2.2
 commonmark==0.9.1
 comtypes==1.1.10
-conda==22.9.0
-conda-build==3.22.0
-conda-repo-cli==1.0.24
-conda-verify==3.4.2
 dill==0.3.5.1
 docopt==0.6.2
 et-xmlfile==1.1.0
